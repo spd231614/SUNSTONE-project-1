@@ -1,9 +1,6 @@
 # SUNSTONE-project-1
 Full Stack Development - Development of a E-Commerce website 
 
-The art of full stack development will be explained in this repo
-
-
 **ABSTRACT**
 
 According to FAO’s latest report on The State of Food Security and Nutrition in the World (SOFI), the number of people affected by hunger rose
